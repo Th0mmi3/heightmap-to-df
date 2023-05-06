@@ -1,0 +1,18 @@
+/give @p minecraft:ender_chest{PublicBukkitValues:{"hypercube:codetemplatedata":'{"author":"Thommie7","name":"blFunction 3» bload_map","version":1,"code":"<Replace this with code string>"}'},display:{Name:'{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"Function "},{"bold":false,"italic":false,"color":"dark_aqua","text":"» "},{"italic":false,"color":"aqua","text":"load_map"}],"text":""}'}} 1
+
+
+
+
+
+
+
+
+{PublicBukkitValues:{"hypercube:codetemplatedata":'{"author":"Thommie7","name":"blFunction 3» bload_map","version":1,"code":"<Replace this with code string>"}'},display:{Name:'{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"Function "},{"bold":false,"italic":false,"color":"dark_aqua","text":"» "},{"italic":false,"color":"aqua","text":"load_map"}],"text":""}'}}
+
+
+
+
+
+
+
+{'blocks': [{'id': 'block', 'block': 'func', 'args': {'items': []}, 'data': 'file'}, {'args': {'items': [{'item': {'id': 'var', 'data': {'name': 'file', 'scope': 'local'}}, 'slot': 0}]}
